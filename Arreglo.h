@@ -250,7 +250,7 @@ dato pivote que es el que se ordena.*/
       //Se ordena la segunda mitad del arreglo.
       quickSort(j+1,hi);
     }else{
-      //Si hi e mayor que lo, se termina la función.
+      //Si hi es mayor que lo, se termina la función.
       return;
     }
   }
